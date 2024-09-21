@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aliver/static/css/main.e47edc30.css",
+    "main.js": "/aliver/static/js/main.dd40870e.js",
+    "index.html": "/aliver/index.html",
+    "main.e47edc30.css.map": "/aliver/static/css/main.e47edc30.css.map",
+    "main.dd40870e.js.map": "/aliver/static/js/main.dd40870e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e47edc30.css",
+    "static/js/main.dd40870e.js"
+  ]
+}
