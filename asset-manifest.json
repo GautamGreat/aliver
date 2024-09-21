@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/aliver/static/css/main.80ea7ecf.css",
-    "main.js": "/aliver/static/js/main.72bdbba9.js",
+    "main.js": "/aliver/static/js/main.f018c2f0.js",
     "index.html": "/aliver/index.html",
     "main.80ea7ecf.css.map": "/aliver/static/css/main.80ea7ecf.css.map",
-    "main.72bdbba9.js.map": "/aliver/static/js/main.72bdbba9.js.map"
+    "main.f018c2f0.js.map": "/aliver/static/js/main.f018c2f0.js.map"
   },
   "entrypoints": [
     "static/css/main.80ea7ecf.css",
-    "static/js/main.72bdbba9.js"
+    "static/js/main.f018c2f0.js"
   ]
 }
