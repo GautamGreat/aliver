@@ -14,7 +14,7 @@ class unisocSpreadtrum {
     // TODO: Add some sort of timeout here
     while(packet.value.length < 8) { 
       let new_packet = await this.usb_device.read(4096)
-      const new_array = new Uint8Array(packet.length + new_packet.length)
+      const new_array = new Uint8Array(packet.value.length + new_packet.value.length)
       new_array.set(packet.value, 0)
       new_array.set(new_packet.value, packet.value.length)
       packet.value = new_array
